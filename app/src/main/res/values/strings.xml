@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">facebook</string>
+    <string name="facebook_app_id">195290326681274</string>
+    <string name="fb_login_protocol_scheme">fb195290326681274</string>
+    <string name="facebook_client_token">1df08868175ae38c0bf25fb0a772c012</string>
+    <string name="email">Email</string>
+    <string name="publicacion">Publicación</string>
+    <string name="compartir">Compartir</string>
+
+</resources>
